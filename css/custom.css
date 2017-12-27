@@ -62,3 +62,13 @@ p {
 .glyphicon-large {
 	font-size: 100px;
 }
+
+a.divlink {
+  text-decoration: none;
+  color: inherit;
+}
+
+a.divlink:hover {
+  text-decoration: none;
+  color: green;
+}
