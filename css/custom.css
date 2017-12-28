@@ -21,11 +21,11 @@ p {
 .jumbotron {
 	background: #27A967;
 	color: white;
-	text-align: center;
+	text-align: Center;
 }
 .jumbotron p {
 	color: white;
-	font-size: 26px;
+	font-size: 20px;
 }
 
 .btn-primary {
